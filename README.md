@@ -31,3 +31,4 @@ List our your certifications and/or link to them. Also include the ones you plan
 | Automate Cybersecurity Tasks with Python           |                 12/2025                | [Coursera](https://www.coursera.org/account/accomplishments/records/5RNP2RK5EZKG) |
 | Google Cybersecurity Specialization                |                 12/2025                | [Coursera](https://www.coursera.org/account/accomplishments/specialization/P8RO98P3M0IT) |
 | Google Cybersecurity Professional Certificate(v.2) |                 12/2025                | [Google](https://www.credly.com/badges/1fd7b9c1-d0a5-47f9-870c-c3b3a237e9b2/linked_in_profile) |
+| ISC2 Candidate                                     |                  1/2026                | [ISC2](https://www.credly.com/badges/c47ebc07-27b8-4769-b0d4-7c56f9a904d8/public_url) |
